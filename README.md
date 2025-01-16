@@ -31,6 +31,11 @@
    ```bash
    python src/analysis.py data/products.csv
    ```
+## Why SerpAPI?
+- **Reliable Data Source:** SerpAPI directly pulls product pricing data from Google Shopping, ensuring accuracy and relevance.
+- **Ease of Integration:** Simple and well-documented API makes integration seamless.
+- **Real-time Data:** Provides up-to-date pricing data essential for market comparison.
+- **Flexibility:** Supports filtering and localization, which allows fetching targeted product data.
 
 ## Approach
 - Reads product data from `products.csv`.
